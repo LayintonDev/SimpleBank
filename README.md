@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Simple Bank Simulation Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic Bank similuation with smart contract in solidity. It allows user to create account, deposit into the account, make withdrawal and transfer from thier account to another user account.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+
